@@ -66,7 +66,7 @@ class Programmer implements Worker {
 
 }
 
-class Baby implements Eater, Sleeper {
+class Baby implements Eater,Sleeper {
 
     @Override
     public void eat() {
